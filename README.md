@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamedghaly140
+- 👋 Hi, I’m Mohamed Ghaly Software Developer with a willingness to learn more and a desire to apply learned skills.
 - 👀 I’m interested in frontend and mobile development
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
