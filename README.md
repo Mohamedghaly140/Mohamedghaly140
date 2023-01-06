@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Ghaly Software Developer with a willingness to learn more and a desire to apply learned skills.
-- 👀 I’m interested in frontend and mobile development
+- 👀 I’m interested in **Frontend** and **Mobile** development
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
